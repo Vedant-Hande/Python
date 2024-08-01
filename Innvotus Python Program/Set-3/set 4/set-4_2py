@@ -1,0 +1,13 @@
+a,b,c,d,e,f = 10,20,30,40,50,60
+a+=10
+b-=20
+c*=30
+d/=40
+e%=50
+f+=60
+print("a :",a)
+print("b :",b)
+print("c :",c)
+print("d :",d)
+print("e :",e)
+print("f :",f)
