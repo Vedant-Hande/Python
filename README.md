@@ -24,25 +24,24 @@ To get started with this repository, you'll need to have Python installed on you
 
 To clone this repository, use the following command:
 
-- bash
 https://github.com/Vedant-Hande/Python
 
 Install Dependencies
 Some programs might require additional packages. You can install the required packages using pip. Navigate to the repository's root directory and run:
 
-bash
-Copy code
+
 pip install numpy
 
 Usage
 To run any of the Python programs, use the following command:
 
-- bash 
 python path/to/program.py
 
 For example, to run the hello_world.py program:
 
- - bash
+
+
+
 python basics/hello_world.py
 
 Contributing
